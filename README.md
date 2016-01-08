@@ -7,3 +7,6 @@ Do the following using this repository:
 4.  Provide a link to more information about the quote online
 5.  Add and commit changes
 6.  Push back to GitHub
+
+>Stay hungry, stay foolish.
+[Read more](http://news.stanford.edu/news/2005/june15/jobs-061505.html)
